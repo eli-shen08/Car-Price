@@ -50,7 +50,7 @@ idna==3.3
 importlib-metadata==4.10.0
 iniconfig==1.1.1
 ipykernel==6.15.0
-ipython==8.0.0
+# ipython==8.0.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
 itsdangerous==2.1.2
@@ -126,7 +126,7 @@ pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
 pywinpty==1.1.6
 PyYAML==6.0
-pyzmq==22.3.0
+# pyzmq==22.3.0
 qtconsole==5.2.2
 QtPy==2.0.0
 random2==1.0.1

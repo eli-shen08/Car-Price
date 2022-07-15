@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Second hand Car Prediction.</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="POST">
+    	<input type="text" name="Year" placeholder="Year of the Model" required="required" />
+        <input type="text" name="Present_Price" placeholder="Present Price" required="required" />
+		    <input type="text" name="Kms_Driven" placeholder="Kms Driven" required="required" />
+        <input type="text" name="Fuel_Type" placeholder="Fuel Type" required="required" />
+        <input type="text" name="Seller_Type" placeholder="Seller Type" required="required" />
+        <input type="text" name="Transmission" placeholder="Transmission" required="required" />
+        <input type="text" name="Owner" placeholder="Owner" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>

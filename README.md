@@ -1,5 +1,7 @@
 # Car-Price
-******************************Title************************************************
+
+
+                       TITLE OF PROJECT   
                       Owned Car Price Prediction
 
 This is a full stack Machine Learning website that i have deployed through heroku .
@@ -17,6 +19,6 @@ I have also performed analysis on this with jupyter notebook where i have used d
 
 F.Y.I
 ------
-I experience with css or styling is literally non-existant its just something i am not interested in, not hating.
-So the styling of the HTML page goes to my friend Debjit Das his Github handle is https://github.com/dasdebjeet .
+My experience with css or styling is literally non-existant its just something i am not interested in, not hating I just created the outer template like the inputs and the buttons.
+So the styling of the HTML page goes to my friend Debjit Das his Github handle is : https://github.com/dasdebjeet .
 Check his profile out if you want to.

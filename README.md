@@ -20,5 +20,5 @@ I have also performed analysis on this with jupyter notebook where i have used d
 F.Y.I
 ------
 My experience with css or styling is literally non-existant its just something i am not interested in, not hating I just created the outer template like the inputs and the buttons.
-So the styling of the HTML page goes to my friend Debjit Das his Github handle is : https://github.com/dasdebjeet .
+So the styling of the HTML page goes to my friend Debjeet Das his Github handle is : https://github.com/dasdebjeet .
 Check his profile out if you want to.

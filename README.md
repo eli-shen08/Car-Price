@@ -13,7 +13,7 @@ https://ownedcarpriceprediction.herokuapp.com/
 <<-------------------------------------DESCRIPTION------------------------------------------>>
 
 
-You can go to the above wesite with the above link and check it out.
+You can go to the above website with the above link and check it out.
 I have trained the model using Random Forest Regressor through which i have been able to achieve 94% accuracy.
 Then i have saved the model using pickle.
 I have used Flask framework to deploy the model through heroku.

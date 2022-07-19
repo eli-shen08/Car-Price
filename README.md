@@ -4,7 +4,7 @@
                        TITLE OF PROJECT   
                       Owned Car Price Prediction
 
-This is a full stack Machine Learning website that i have deployed through heroku .
+This is a full stack Machine Learning Model that i have deployed through heroku .
 
 
 

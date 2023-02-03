@@ -8,7 +8,7 @@ This is a full stack Machine Learning Model that i have deployed through heroku 
 
 
 
-https://ownedcarpriceprediction.herokuapp.com/
+https://car-price-1i3z.onrender.com
 
 <<-------------------------------------DESCRIPTION------------------------------------------>>
 
@@ -16,7 +16,7 @@ https://ownedcarpriceprediction.herokuapp.com/
 You can go to the above website with the above link and check it out.
 I have trained the model using Random Forest Regressor through which i have been able to achieve 94% accuracy.
 Then i have saved the model using pickle.
-I have used Flask framework to deploy the model through heroku.
+I have used Flask framework to deploy the model through Render.
 I have also performed analysis on this with jupyter notebook where i have used different ML algorithms.
 
 F.Y.I
